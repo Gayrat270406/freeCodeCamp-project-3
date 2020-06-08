@@ -1,0 +1,152 @@
+body,
+p,
+h1,
+h2 {
+  margin: 0px;
+  padding: 0px;
+}
+nav.navbar.navbar-light.bg-light {
+  position: fixed;
+  left: 0px;
+  width: 100%;
+}
+
+span.navbar-brand.mb-0.h1 a {
+  color: black;
+}
+img.logo {
+  height: 42px;
+  padding-right: 455px;
+  padding-left: 5px;
+}
+div.container1 {
+  background-color: rgb(231, 231, 231);
+  width: 100%;
+  height: 100%;
+}
+h3#head1 {
+  padding-top: 70px;
+  text-align: center;
+}
+input#email {
+  width: 300px;
+}
+form#input {
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+}
+i {
+  font-size: 75px;
+  float: left;
+  padding-right: 80px;
+  color: #ffc107;
+}
+div.cont3 {
+  width: 900px;
+  margin: auto;
+  padding-top: 30px;
+}
+i.fas.fa-truck {
+  font-size: 75px;
+  float: left;
+  padding-right: 50px;
+  color: #ffc107;
+}
+i.fas.fa-battery-full {
+  font-size: 75px;
+  float: left;
+  padding-right: 50px;
+  color: #ffc107;
+}
+div.video {
+  display: flex;
+  justify-content: center;
+}
+
+div.video iframe {
+  padding-top: 50px;
+  width: 560px;
+  height: 415px;
+}
+
+div.box1 {
+  margin-top: 40px;
+  border: 1px solid black;
+  width: 400px;
+  height: 300px;
+  float: left;
+  width: 25%;
+  margin-left: 70px;
+}
+div.box2 {
+  margin-top: 40px;
+  border: 1px solid black;
+  width: 400px;
+  height: 300px;
+  float: left;
+  width: 25%;
+  margin-left: 70px;
+}
+div.box3 {
+  margin-top: 40px;
+  border: 1px solid black;
+  width: 400px;
+  height: 300px;
+  float: left;
+  width: 25%;
+  margin-left: 70px;
+}
+div.box1 h6,
+div.box2 h6,
+div.box3 h6 {
+  background-color: rgb(216, 214, 231);
+  font-size: 25px;
+  text-align: center;
+  height: 45px;
+  padding-top: 10px;
+}
+
+div.box1 h4,
+div.box2 h4,
+div.box3 h4 {
+  font-size: 35px;
+  text-align: center;
+  padding-top: 10px;
+}
+.clr {
+  clear: both;
+}
+div.box1 p,
+div.box2 p,
+div.box3 p {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10px;
+  width: 180px;
+  margin: auto;
+}
+
+button.btn.btn-warning {
+  font-size: 15px;
+  margin-top: 15px;
+  margin-left: 100px;
+}
+div.footer {
+  background-color: rgb(216, 214, 231);
+  width: 95%;
+  height: 80px;
+  margin: auto;
+  margin-top: 40px;
+}
+div.footer span a {
+  color: black;
+  float: right;
+  font-size: 20px;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+div.footer p {
+  float: right;
+  padding-right: 10px;
+}
